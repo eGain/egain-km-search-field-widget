@@ -12,7 +12,7 @@ The Search Field widget renders an unordered list in an HTML page based on an in
 
 # Using The Search Field Widget
 
-1. Clone or download the Sample Application from git hub repository.
+1. Clone or download the Sample Application from git hub repository https://github.com/g-aprajidiot/eGain-KM-Search-Field-Widget.
 1. Change below attributes as required in the index html file.
     1. your_egain_system_url_with-context_root
     1. your_kb_portal_id
