@@ -1,6 +1,5 @@
 # eGain-KM-Search-Field-Widget
 
-# About
 The Search Field widget renders an unordered list in an HTML page based on an initialization search string parameter. The list is a result of articles which matches the search parameter from eGain knowledge base. Additionally, it renders an text input field where the end-user can type the search parameter manually and click the button to search the term.
 
 ![search-field-widget](https://user-images.githubusercontent.com/83938216/117620356-0f97a180-b18e-11eb-99d6-5296c5c6a27f.JPG)
